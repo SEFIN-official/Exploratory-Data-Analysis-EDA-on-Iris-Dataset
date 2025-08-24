@@ -100,6 +100,7 @@ How to visualize data using Matplotlib & Seaborn
 How to find relationships between features
 
 Gained first experience in Exploratory Data Analysis (EDA)
+
 ---
 OUTPUT SCREENSHOT:
 
